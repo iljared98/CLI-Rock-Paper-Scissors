@@ -1,2 +1,6 @@
 # CLI-Rock-Paper-Scissors
-Simple CLI Rock Paper Scissors game.
+### Requires:
+- Python 3.x
+- The following modules: os, sys, random
+
+Simple CLI-based Rock Paper Scissors game.
